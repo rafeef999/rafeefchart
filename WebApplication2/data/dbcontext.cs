@@ -9,6 +9,6 @@ namespace WebApplication2.data
         {
 
         }
-        public DbSet<chartr> Catagories { get; set; }
+        public DbSet<chartr> chartt { get; set; }
     }
 }
